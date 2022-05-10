@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Baloo+Bhai+2:wght@800&family=Barlow:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300&family=Bebas+Neue&family=Lobster&family=Lora:ital,wght@0,400;0,500;1,400&family=Montagu+Slab:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  font-family: 'Anton', sans-serif;
+font-family: 'Baloo Bhai 2', cursive;
+font-family: 'Barlow', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Lora', serif;
+font-family: 'Montagu Slab', serif !important
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-link{
+  color: purple !important;
+ 
+
+}
+.navbar-brand{
+color:purple !important;
+
+
+}
